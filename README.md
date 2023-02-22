@@ -10,7 +10,7 @@ Modularize the provided code
 
 ### Links and Resources
 
-- [GitHub Actions ci/cd]()
+- [GitHub Actions ci/cd](https://github.com/j-davitt/bearer-auth/actions/new)
 - [back-end server url]()
 
 
@@ -18,7 +18,7 @@ Modularize the provided code
 
 #### `.env` requirements (where applicable)
 
-DATABASE_URL=postgres://localhost:5432/basic-auth
+DATABASE_URL=postgres://localhost:5432/lab7
 
 
 #### How to initialize/run your application (where applicable)
